@@ -118,34 +118,3 @@ This project demonstrates:
 | Search | O(n) | Must check each node |
 | Display all | O(n) | Must visit each node |
 
-## Next Steps
-
-To extend this project, you could:
-- Add task priorities
-- Implement task completion status
-- Add due dates
-- Create a doubly linked list (with previous pointers)
-- Add sorting functionality
-- Implement a circular linked list
-
-## File Structure
-
-```
-problems/
-├── linkedlist.py      # Main application with linked list implementation
-├── requirements.txt   # Python dependencies (empty for this project)
-├── .gitignore        # Git ignore rules for Python projects
-└── README.md         # This documentation file
-```
-
-## Contributing
-
-Feel free to fork this project and add your own improvements! Some ideas:
-- Add unit tests
-- Implement different linked list variations
-- Create a GUI version
-- Add data persistence (save tasks to file)
-
----
-
-*This project serves as a practical example of implementing fundamental data structures in Python while building something useful.* 
